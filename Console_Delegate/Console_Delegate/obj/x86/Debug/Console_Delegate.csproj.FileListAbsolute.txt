@@ -1,0 +1,4 @@
+D:\Ptactice\Console_Delegate\Console_Delegate\bin\Debug\Console_Delegate.exe
+D:\Ptactice\Console_Delegate\Console_Delegate\bin\Debug\Console_Delegate.pdb
+D:\Ptactice\Console_Delegate\Console_Delegate\obj\x86\Debug\Console_Delegate.exe
+D:\Ptactice\Console_Delegate\Console_Delegate\obj\x86\Debug\Console_Delegate.pdb
